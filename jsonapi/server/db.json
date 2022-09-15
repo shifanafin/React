@@ -1,0 +1,14 @@
+{
+    "user":[
+        {
+             "id":0,
+             "name":"shifana",
+             "place":"chennara"
+        },
+        {
+            "id":1,
+            "name":"shihana",
+            "place":"kozhikode"
+       }
+    ]
+}
